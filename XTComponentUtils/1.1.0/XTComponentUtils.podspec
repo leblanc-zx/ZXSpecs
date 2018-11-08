@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-s.source_files = 'XTComponentUtils/*.{h,m}'
+#s.source_files = 'XTComponentUtils/*.{h,m}'
   # 配置子目录
   s.subspec 'Models' do |models|
   models.source_files = 'XTComponentUtils/Models/*'
